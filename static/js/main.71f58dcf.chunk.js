@@ -1,0 +1,2 @@
+(this["webpackJsonpmaterial-ui-demo"]=this["webpackJsonpmaterial-ui-demo"]||[]).push([[0],{9:function(e,t,r){"use strict";r.r(t);var n=r(0),c=r.n(n),i=r(3),a=r.n(i),o=r(1);var s=function(){return Object(o.jsx)("div",{className:"App",children:"Hello world"})};a.a.render(Object(o.jsx)(c.a.StrictMode,{children:Object(o.jsx)(s,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.71f58dcf.chunk.js.map
